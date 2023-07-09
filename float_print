@@ -1,0 +1,12 @@
+int main()
+{
+    float f =0.1;
+    if(f ==0.1)
+      printf("if");
+    else if(f ==0.1f)
+      printf("else if");
+    else
+      printf("else");
+
+    return 0;
+}
