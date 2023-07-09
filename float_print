@@ -8,5 +8,7 @@ int main()
     else
       printf("else");
 
+    printf("%f\n",f); // 0.100000
+    printf("%f",0.1f); // 0.100000
     return 0;
 }
